@@ -1,0 +1,4 @@
+The first 2 perfect number are:
+List(6, 28)
+The first 4 perfect numbers up to 10,000 are:
+List(6, 28, 496, 8128)
